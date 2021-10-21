@@ -1,0 +1,14 @@
+.image{
+    height: 500px;
+}
+.blog-container{
+    display: flex;
+    align-items: center;
+    /* width: 60%; */
+}
+.blog2-container{
+    width: 60%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
